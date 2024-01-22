@@ -1,6 +1,6 @@
 ### Hi there 👋, Anton Sadovski
 #### C++ Software Engineer
-![C++ Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![C++ Software Engineer]
 
 Developing a turn-based device-shared game and JSON library for C++. Recently started integrating Boost to projects I make.
 Taking great pleasure in grinding LeetCode problems.
