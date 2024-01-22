@@ -6,7 +6,7 @@ Recently started integrating Boost into projects I make.\
 Taking great pleasure in grinding LeetCode problems.\
 Sophomore at BSU, FAMCS, Cybersecurity (Former "Computer Security").
 
-#### Skills: C++/Qt | STL | OOP DP | Git
+#### Skills: C++/Qt | OOP DP | Git
 
 - 🔭 I’m currently working on MyJSON | Walker_Game 
 - 🌱 I’m currently learning Boost | SQL 
