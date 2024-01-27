@@ -2,7 +2,7 @@
 ### C++ Software Engineer
 
 Sophomore at BSU, FAMCS, Cybersecurity (Former "Computer Security"). \
-Currently developing a turn-based device-shared game and JSON library for C++. \
+Currently developing a turn-based device-shared game using C++. \
 Recently started integrating Boost into projects I make.\
 Looking for professional experience of developing software
 
