@@ -3,7 +3,6 @@
 
 Sophomore at BSU, FAMCS, Cybersecurity (Former "Computer Security"). \
 Currently developing a turn-based device-shared game using C++. \
-Recently started integrating Boost into projects I make.\
 Looking for professional experience of developing software
 
 #### Skills: C++/Qt | OOP| Design Patterns | Git
