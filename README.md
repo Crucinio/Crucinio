@@ -7,7 +7,7 @@ Looking for professional experience of developing software
 
 #### Skills: C++/Qt | OOP| Design Patterns | Git
 
-- 🔭 I’m currently working on MyJSON | Walker_Game 
+- 🔭 I’m currently working on Walker_Game 
 - 🌱 I’m currently learning Boost | SQL 
 - 📫 How to reach me: anton.crykov@gmail.com 
 
