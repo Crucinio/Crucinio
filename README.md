@@ -3,7 +3,7 @@
 
 Sophomore at BSU, FAMCS, Cybersecurity 
 
-#### Skills: C++/Qt | Network Programming | Concurrency and Sync | OOP | Design Patterns | Git
+#### Skills: C++ (Qt, STL, Boost) | Network Programming (WinAPi) | Concurrency and Sync (std, WinAPI) | OOP | Design Patterns | Git
 
 - 🔭 I’m currently working on creating new game project in Unreal Engine 5.
 - 🌱 I’m currently learning Unreal Engine 5.
